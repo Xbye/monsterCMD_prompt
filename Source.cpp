@@ -3,7 +3,6 @@
 #include <iostream>
 #include <limits>
 #include <string>
-#include <vector>
 
 
 enum class typemonster		//TYPEMONSTER::---
